@@ -1,0 +1,6 @@
+﻿Desktop.ini
+thumbs.db
+node_modules/
+*.log
+.env
+.vscode/
