@@ -187,39 +187,5 @@ Evening (15-30 mins):
 ## 🔗 Important Links
 
 - **GitHub:** https://github.com/are667/automation-learning
-- **LeetCode Profile:** [Your LeetCode URL]
-- **LinkedIn:** [Your LinkedIn URL]
 
----
 
-## 📚 Study Tips
-
-1. **Consistency over intensity** - 1 hour daily > 7 hours on weekend
-2. **Understand first, memorize later** - Read solution if stuck > 5 mins
-3. **Document everything** - Write notes + comments in code
-4. **Commit daily** - Even small changes count
-5. **Build projects** - Theory + practice = mastery
-
----
-
-## 🎯 Year 3 Goal
-
-✅ Build a **portfolio that impresses** hiring managers from Google, Meta, FinTech, or automation companies.
-
-By end of Year 3:
-- 5+ quality projects on GitHub
-- 100+ LeetCode problems solved
-- Consistent commit history (200+ commits)
-- Strong SQL + Python fundamentals
-- Ready for international job applications
-
----
-
-## 📧 Notes
-
-- Started: May 12, 2026
-- Current Year: 3 (out of 4)
-- Timeline: 2 years until graduation
-- **Motivation:** Get job in international tech company (dream: Thailand/APAC based tech hub)
-
----
